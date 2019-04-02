@@ -12,7 +12,9 @@ namespace EFPlus
         {
             HibernatingRhinos.Profiler.Appender.EntityFramework.EntityFrameworkProfiler.Initialize();
 
-            new FilterDemo().Run();
+            //new FilterDemo().Run();
+            //new CacheDemo().Run();
+            new FutureDemo().Run();
         }
     }
 }

@@ -61,9 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseModel.cs" />
+    <Compile Include="CacheDemo.cs" />
     <Compile Include="Category.cs" />
     <Compile Include="DataContext.cs" />
     <Compile Include="FilterDemo.cs" />
+    <Compile Include="FutureDemo.cs" />
     <Compile Include="Migrations\201903240800369_Initial.cs" />
     <Compile Include="Migrations\201903240800369_Initial.Designer.cs">
       <DependentUpon>201903240800369_Initial.cs</DependentUpon>
